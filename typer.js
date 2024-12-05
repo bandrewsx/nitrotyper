@@ -15,8 +15,8 @@
 // original author: RedHawk : https://github.com/RedHawk-1/Nitro-Type-Bot-2.0
 
 
-var wpm = 129;
-var accuracy = 97;
+var wpm = 72;
+var accuracy = 98;
 
 
 
